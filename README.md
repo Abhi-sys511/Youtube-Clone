@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
@@ -10,3 +11,6 @@
 ✅ A special YOUTUBE discount code is automatically applied!
 
 📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+=======
+# Youtube-Clone
+>>>>>>> 85c02e8ff0a21f9508560c2e07132bcf1d6cb1cf
